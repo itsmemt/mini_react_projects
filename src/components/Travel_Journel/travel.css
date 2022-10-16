@@ -1,0 +1,61 @@
+.travel-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-container {
+    max-width: 25%;
+    margin-left: 15%;
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
+
+.desc-container {
+    max-width: 55%;
+    margin-right: 15%;
+    margin-top: 1rem;
+    background-color: beige;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+.desc{
+    max-width: 80%;
+    padding-left: 1rem;
+    font-size: 1rem;
+    padding-top: 1rem;
+}
+
+.place {
+    font-family: Inter;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 2.2rem;
+    padding-top: .5rem;
+    padding-left: .5rem;
+}
+.date{
+    font-family: Inter;
+font-size: .7rem;
+font-weight: bolder;
+line-height: 12px;
+letter-spacing: 0em;
+padding-left: 1rem;
+padding-top: .5rem;
+
+
+}
+.country {
+   padding-top: .2rem;
+   padding-left: 0.5rem;
+}
+
+.country i {
+    color: #F55A5A;
+    margin-right: .2rem;
+}
+
+.pic {
+    width: 20rem;
+    height: 100%;
+    border-radius: 10px;
+}
